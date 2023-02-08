@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: lightgray;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.caixa2 {
+   max-width: 360px;
+  margin: 0 auto;
+}
+.caixa1 {
+    padding: 18px;
+    border-radius: 17px;
+    text-align: center;
+    background-color: white;
+}
+
+.caixa1 img {
+    border-radius: 12px;
+    width: 100%;
+}
+.text {
+    padding: 22px;
+}
+.text h2 {
+    color:darkblue;
+}
+.text p {
+color: hsl(220, 15%, 55%);
+}
